@@ -15,9 +15,9 @@ Task 2- On the UI screen two. On clicking the Post button generate a new post. W
 - [Nexxtway Chart](https://github.com/nexxtway/react-rainbow)
 
 # Screenshots and Details
-<img src="https://imgur.com/7S3wexP" width="500" height="250"/>
-<img src="https://imgur.com/2Vs9dKX" width="500" height="250"/>
-<img src="https://imgur.com/Q7aLS8X" width="500" height="250"/>
+[Dashboard](https://imgur.com/7S3wexP)
+[Notepad 1](https://imgur.com/2Vs9dKX)
+[Notepad 2](https://imgur.com/Q7aLS8X)
 
 Clicking on the Notepad Card on Dashboard opens a Second Screen Where one can add Notes.
 
